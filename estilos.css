@@ -27,3 +27,24 @@
 	background: yellow;
 	margin: 3% 15% 6%;
 	}
+.subtitulo{
+	margin: 2% 3%;
+}
+.parrafo{
+	text-align: right;
+	color: red;
+	font-size: 60%;
+}
+.parrafo2{
+	background: blue;
+	text-align: center;
+	color: green;
+	display: inline-block;
+	width: 40%;
+}
+.multimedia{
+	display: inline-block;
+	width: 560px;
+	height: 315px;
+	
+}
