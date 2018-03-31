@@ -1,0 +1,29 @@
+*{
+	margin: 0%; /*margenes estandar	*/
+	padding: 0%; /*relleno interno de la caja la engorda*/
+	font-family: arial; /*esta es la fuente de la letra	*/
+}
+.logo{
+	background:#2CC8D5;/*color del fondo	*/
+
+}
+.logounad{	
+	height: 11%; /*altura	*/
+	width: 11%; /*ancho	*/
+	display: inline-block;
+}
+.principal{	
+	color: red; /*color de la letra	*/
+	/*font-size: 15%; tamaño de la letra*/
+	width: 60%;
+	margin-left: 0%; /*margen de la caja a la izquierda	*/
+	text-align: center; /*alinear el texto	*/
+	display: inline-block; /*bloquear que la caja quede en una sola linea y permita alojar otra al lado	*/
+	vertical-align: 80%;
+	padding: 2%;
+}
+.titulo{
+	text-align: center;
+	background: yellow;
+	margin: 3% 15% 6%;
+	}
